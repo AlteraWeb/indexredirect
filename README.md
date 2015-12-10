@@ -1,4 +1,4 @@
-<h2><a href="http://pluginspro.ru">Мудили и плагины для COTONTI</a></h2>
+<h2><a href="http://pluginspro.ru">Модули и плагины для COTONTI</a></h2>
 
 Делает редириект на главной странице для пользователей.
 
